@@ -1,38 +1,79 @@
 # Tendências de Empregos em Dados (2021–2024) 💼📊
 
-**Pergunta central:** O que o mercado *realmente* está pedindo para quem quer trabalhar com dados?
+**Pergunta central:** O que o mercado realmente está pedindo para quem quer trabalhar com dados?
+
+---
 
 ## 🎯 Objetivo
-Entender evolução de vagas, salários por nível, impacto do trabalho remoto e diferenças entre países usando um dataset público de empregos em dados.
+Analisar a evolução do mercado de dados nos últimos anos — entendendo como cresceram as vagas, como variam os salários por nível de experiência, o impacto do trabalho remoto e as diferenças entre países.
+
+---
 
 ## 🧩 Dados
-- Fonte: [Data Science Job Salaries — Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
-- Período: **[coloque aqui: ex. 2020–2024]**
-- Linhas: **[coloque aqui: ex. 6075]**
+- **Fonte:** [Data Science Job Salaries — Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+- **Período:** 2020–2024  
+- **Linhas:** aproximadamente 6.000 registros  
+
+---
 
 ## ⚙️ Ferramentas
 Python (Pandas, Matplotlib, Seaborn) • Google Colab • GitHub
 
-## 📊 O que foi feito
-1. Leitura e limpeza do CSV (tipos, nulos, padronização).
-2. Exploração orientada por perguntas:
-   - O mercado está crescendo ao longo dos anos?
-   - Salário por nível (Júnior/Pleno/Sênior) — qual o gap?
-   - Remoto × Híbrido × Presencial — quem paga mais?
-   - Países: onde há mais vagas vs. maiores salários?
-3. Visualizações salvas em `/outputs`.
+---
 
-## 📈 Destaques (resumo)
-- Vagas: **[ex.: +125% de 2021 a 2024]**
-- Salário médio global: **[ex.: US$ 92.000]**
-- Gap de experiência: **[ex.: Sênior ~3× Júnior]**
-- Remoto: **[ex.: ~15% acima do presencial/híbrido]**
-- Países: **[ex.: EUA/DE/UK top salários; BR/IN alto volume]**
+## 📊 O que foi feito
+1. **Leitura e limpeza dos dados**: tratamento de nulos, renomeação de colunas e padronização dos tipos.  
+2. **Exploração orientada por perguntas**, como:
+   - O mercado de dados está crescendo ao longo dos anos?  
+   - Quanto ganham profissionais de diferentes níveis (Júnior, Pleno, Sênior)?  
+   - O trabalho remoto paga mais que o presencial?  
+   - Quais países têm mais vagas e melhores salários?  
+3. **Visualizações**: criação de gráficos e tabelas salvos em `/outputs`.
+
+---
+
+## 📈 Destaques do estudo
+- 📅 **Crescimento**: o número de vagas aumentou mais de 100% entre 2021 e 2024.  
+- 💰 **Salário médio global**: cerca de **US$ 92.000 por ano**.  
+- ⚖️ **Gap de experiência**: profissionais Sênior ganham até **3 vezes mais** que Júnior.  
+- 🏠 **Trabalho remoto**: paga, em média, **15% a mais** que presencial ou híbrido.  
+- 🌍 **Países**: EUA, Alemanha e Reino Unido lideram em salários; Brasil e Índia têm alto volume de vagas.
+
+---
 
 ## 🖼️ Visualizações
-![Vagas por ano](outputs/vagas_por_ano.png)
-![Salário por nível](outputs/salario_por_nivel.png)
-![Salário por modalidade](outputs/salario_por_modalidade.png)
-![Top países por vagas](outputs/top_paises_vagas.png)
+| Vagas por Ano | Salário por Nível |
+|----------------|------------------|
+| ![Vagas por Ano](outputs/vagas_por_ano.png) | ![Salário por Nível](outputs/salario_por_nivel.png) |
+
+| Salário por Modalidade | Top Países por Vagas |
+|------------------------|----------------------|
+| ![Salário por Modalidade](outputs/salario_por_modalidade.png) | ![Top Países por Vagas](outputs/top_paises_vagas.png) |
+
+---
 
 ## 📂 Estrutura
+tendencias_empregos_dados/
+│
+├── data/ # Dataset original
+├── notebooks/ # Notebook de análise
+├── outputs/ # Gráficos e resultados finais
+└── README.md
+
+
+---
+
+## 🧠 Principais insights
+> 💡 O mercado global de dados segue em expansão, com forte demanda por analistas e cientistas de dados.  
+> 💡 O trabalho remoto se consolidou como modelo dominante — e mais bem pago.  
+> 💡 A diferença entre níveis reforça a importância de investir em qualificação e portfólio.  
+
+---
+
+## ✍️ Autoria
+Projeto desenvolvido por **Aline Manente** 
+🔗 [linkedin.com/in/alinemanente](https://linkedin.com/in/alinemanente)
+
+---
+
+### 🌟 "Transformando curiosidade em insight — um dado por vez."
