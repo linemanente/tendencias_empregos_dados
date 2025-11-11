@@ -41,17 +41,6 @@ Python (Pandas, Matplotlib, Seaborn) • Google Colab • GitHub
 
 ---
 
-## 🖼️ Visualizações
-| Vagas por Ano | Salário por Nível |
-|----------------|------------------|
-| ![Vagas por Ano](outputs/vagas_por_ano.png) | ![Salário por Nível](outputs/salario_por_nivel.png) |
-
-| Salário por Modalidade | Top Países por Vagas |
-|------------------------|----------------------|
-| ![Salário por Modalidade](outputs/salario_por_modalidade.png) | ![Top Países por Vagas](outputs/top_paises_vagas.png) |
-
----
-
 ## 📂 Estrutura
 tendencias_empregos_dados/
 │
@@ -73,6 +62,13 @@ tendencias_empregos_dados/
 ## ✍️ Autoria
 Projeto desenvolvido por **Aline Manente** 
 🔗 [linkedin.com/in/alinemanente](https://linkedin.com/in/alinemanente)
+
+---
+
+## 📦 Download do Projeto Completo
+Se quiser baixar todos os notebooks, gráficos e dados deste projeto:
+
+➡️ [Clique aqui para baixar o arquivo ZIP](tendencias_empregos_dados.zip)
 
 ---
 
