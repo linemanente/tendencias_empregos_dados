@@ -65,11 +65,4 @@ Projeto desenvolvido por **Aline Manente**
 
 ---
 
-## 📦 Download do Projeto Completo
-Se quiser baixar todos os notebooks, gráficos e dados deste projeto:
-
-➡️ [Clique aqui para baixar o arquivo ZIP](tendencias_empregos_dados.zip)
-
----
-
 ### 🌟 "Transformando curiosidade em insight — um dado por vez."
