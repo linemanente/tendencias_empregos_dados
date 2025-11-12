@@ -77,6 +77,6 @@ tendencias_empregos_dados/
 ---
 
 ## ✍️ Autoria
-**Projeto desenvolvido por [Aline Manente](https://www.linkedin.com/in/alinemanentemendes/)**  
+**Projeto desenvolvido por [Aline Manente] (www.linkedin.com/in/alinemanentemendes)**  
 > 🌟 *“Transformando curiosidade em insight — um dado por vez.”*
 
