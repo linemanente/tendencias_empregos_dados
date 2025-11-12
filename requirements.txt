@@ -1,0 +1,14 @@
+# Bibliotecas principais de análise
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualização de dados
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Jupyter / Colab
+notebook==7.2.2
+ipython==8.27.0
+
+# Exportação e relatórios
+openpyxl==3.1.5
